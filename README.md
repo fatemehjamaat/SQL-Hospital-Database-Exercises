@@ -1,3 +1,4 @@
+[SQLQuery-hospital.sql](https://github.com/user-attachments/files/34501654/SQLQuery-hospital.sql)
 # SQL Hospital Database Exercises
 
 ## About This Project
